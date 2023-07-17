@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BlazorAuthenticationTutotial.Server.props" />
+</Project>

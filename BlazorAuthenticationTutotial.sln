@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAuthenticationTutotial.Server", "BlazorAuthenticationTutotial\Server\BlazorAuthenticationTutotial.Server.csproj", "{A7FF813C-5418-49F6-93F2-80FC97B39202}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAuthenticationTutotial.Client", "BlazorAuthenticationTutotial\Client\BlazorAuthenticationTutotial.Client.csproj", "{EE45F076-FDB6-405A-8CF6-F311ADD88D5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAuthenticationTutotial.Shared", "BlazorAuthenticationTutotial\Shared\BlazorAuthenticationTutotial.Shared.csproj", "{CCC886A1-EDD1-4B2C-948D-32C6D3D1BBBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7FF813C-5418-49F6-93F2-80FC97B39202}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7FF813C-5418-49F6-93F2-80FC97B39202}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7FF813C-5418-49F6-93F2-80FC97B39202}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7FF813C-5418-49F6-93F2-80FC97B39202}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE45F076-FDB6-405A-8CF6-F311ADD88D5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE45F076-FDB6-405A-8CF6-F311ADD88D5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE45F076-FDB6-405A-8CF6-F311ADD88D5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE45F076-FDB6-405A-8CF6-F311ADD88D5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCC886A1-EDD1-4B2C-948D-32C6D3D1BBBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCC886A1-EDD1-4B2C-948D-32C6D3D1BBBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCC886A1-EDD1-4B2C-948D-32C6D3D1BBBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCC886A1-EDD1-4B2C-948D-32C6D3D1BBBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
